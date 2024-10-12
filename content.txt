@@ -1,1 +1,20 @@
 DSA in Java Start on 12 OCT 2024
+
+- Alogrithms
+- Alogrithms Analysis
+- Complexity
+  - Time Complexity - Less Times
+  - Space Complexity - Less Memory
+
+  How do calculate the Time?
+    Machine give deferent Time so time calculate is depend on Machine to Machine
+     So we calculate with the help of steps 
+
+Seaching an element in a sorted array
+  - Linear Search
+  - Binary Search
+
+  - Linear Search: 5 7 9 12 17
+  Here we Search 12 
+  taget_value = 12 
+  It start to sea from first then second then go on until match
